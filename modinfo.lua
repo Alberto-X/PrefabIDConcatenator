@@ -2,6 +2,8 @@ name = "Prefab ID Concatenator"
 description = "Adds prefab name to item description."
 author = "rawii22 & lord_of_les_ralph"
 version = "1.0"
+icon = "modicon.tex"
+icon_atlas = "modicon.xml"
 
 forumthread = ""
 
